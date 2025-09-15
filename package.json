@@ -5,7 +5,7 @@
   "dependencies": {
     "@salesforce/canvas-js-sdk": "^1.41.0",
     "jsforce": "^1.9.3",
-    "jsforce-ajax-proxy": "^1.0.0",
+    "jsforce-ajax-proxy": "^2.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
